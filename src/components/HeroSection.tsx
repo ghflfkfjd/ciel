@@ -9,13 +9,13 @@ interface HeroSectionProps {
 
 const HERO_PORTRAITS = [
   {
-    path: '/assets/aistudio/1___2_bcb48e79.png',
+    path: '/assets/aistudio/1___2_bcb48e79.webp',
     tag: '여우 같은 소꿉친구',
     title: '신발끈이 또 풀렸단 말이야...',
     quote: '“어라... 멍청아, 신발끈이 또 풀렸단 말이야... 나 손 얼어서 안 묶어지는데, 다정하게 묶어줄 거지?”',
   },
   {
-    path: '/assets/aistudio/1____3_e0d3814a.png',
+    path: '/assets/aistudio/1____3_e0d3814a.webp',
     tag: '청성 기사단장',
     title: '제국 최연소 9클래스 지휘관',
     quote: '“북방 마수 동향 보고를 검토 중이다. 단장으로서 그 어떤 위협도 허용하지 않는다.”',

@@ -82,7 +82,7 @@ export const PERSONAS: PersonaInfo[] = [
       '냉정하고 절제된 완벽한 기사단장. 땋아 올린 은발과 칠흑색 정복을 갖추고, 엄격한 판단력과 독보적인 마법 전술로 북방의 마수 군단을 저지하는 제국의 수호신입니다.',
     traits: ['9클래스 대마법사', '엄격한 지휘관', '냉정한 판단력', '격식체 고수'],
     speechStyle: '“~다.” “~하라.” “물러서라.” 단정하고 절제된 기사단장 고유의 어조',
-    mainImage: '/assets/aistudio/1____3_e0d3814a.png',
+    mainImage: '/assets/aistudio/1____3_e0d3814a.webp',
     scent: '겨울 숲의 차갑고 투명한 향기',
     outfit: '땋아 올린 은발, 칠흑색 황실 제복, 금장 장식, 명검',
     storyProse:
@@ -99,7 +99,7 @@ export const PERSONAS: PersonaInfo[] = [
       '10년 지기 소꿉친구인 당신 앞에서만 사소한 실수를 일부러 연출하는 시엘. 풀어진 신발끈, 살짝 태운 요리, 마력 안정 핑계 등 다양한 핑계로 관심과 온기를 요구합니다.',
     traits: ['의도된 허당 연출', '다정한 어리광', '마력 안정 핑계 스킨십', '붉어지는 귀 끝'],
     speechStyle: '“~란 말이야.” “~야아…” “치…” 귀엽고 앙탈 섞인 어투',
-    mainImage: '/assets/aistudio/1___2_bcb48e79.png',
+    mainImage: '/assets/aistudio/1___2_bcb48e79.webp',
     scent: '따뜻한 마시멜로 코코아 향기',
     outfit: '흐트러진 은발, 정수리의 바보털, 풀린 군화끈, 붉어진 볼',
     storyProse:
@@ -185,7 +185,7 @@ export const SECRET_PLANS: SecretPlan[] = [
 export const GALLERY_IMAGES: CielImage[] = [
   {
     "id": "1",
-    "path": "/assets/aistudio/1___1_0e063c6c.png",
+    "path": "/assets/aistudio/1___1_0e063c6c.webp",
     "title": "시엘 일러스트 #1 (0e063c6c)",
     "category": "fox",
     "description": "시엘의 고유 일러스트 (0e063c6c).",
@@ -193,7 +193,7 @@ export const GALLERY_IMAGES: CielImage[] = [
   },
   {
     "id": "2",
-    "path": "/assets/aistudio/1___1_58d60fef.png",
+    "path": "/assets/aistudio/1___1_58d60fef.webp",
     "title": "시엘 일러스트 #2 (58d60fef)",
     "category": "fox",
     "description": "시엘의 고유 일러스트 (58d60fef).",
@@ -201,7 +201,7 @@ export const GALLERY_IMAGES: CielImage[] = [
   },
   {
     "id": "3",
-    "path": "/assets/aistudio/1___1_72c830ea.png",
+    "path": "/assets/aistudio/1___1_72c830ea.webp",
     "title": "시엘 일러스트 #3 (72c830ea)",
     "category": "fox",
     "description": "시엘의 고유 일러스트 (72c830ea).",
@@ -209,7 +209,7 @@ export const GALLERY_IMAGES: CielImage[] = [
   },
   {
     "id": "4",
-    "path": "/assets/aistudio/1___1_b42934e0.png",
+    "path": "/assets/aistudio/1___1_b42934e0.webp",
     "title": "시엘 일러스트 #4 (b42934e0)",
     "category": "fox",
     "description": "시엘의 고유 일러스트 (b42934e0).",
@@ -217,7 +217,7 @@ export const GALLERY_IMAGES: CielImage[] = [
   },
   {
     "id": "5",
-    "path": "/assets/aistudio/1___1_b81f51e2.png",
+    "path": "/assets/aistudio/1___1_b81f51e2.webp",
     "title": "시엘 일러스트 #5 (b81f51e2)",
     "category": "fox",
     "description": "시엘의 고유 일러스트 (b81f51e2).",
@@ -225,7 +225,7 @@ export const GALLERY_IMAGES: CielImage[] = [
   },
   {
     "id": "6",
-    "path": "/assets/aistudio/1___1_d31d3da8.png",
+    "path": "/assets/aistudio/1___1_d31d3da8.webp",
     "title": "시엘 일러스트 #6 (d31d3da8)",
     "category": "fox",
     "description": "시엘의 고유 일러스트 (d31d3da8).",
@@ -233,7 +233,7 @@ export const GALLERY_IMAGES: CielImage[] = [
   },
   {
     "id": "7",
-    "path": "/assets/aistudio/1___1_e063f721.png",
+    "path": "/assets/aistudio/1___1_e063f721.webp",
     "title": "시엘 일러스트 #7 (e063f721)",
     "category": "fox",
     "description": "시엘의 고유 일러스트 (e063f721).",
@@ -241,7 +241,7 @@ export const GALLERY_IMAGES: CielImage[] = [
   },
   {
     "id": "8",
-    "path": "/assets/aistudio/1___2_0bdeaefc.png",
+    "path": "/assets/aistudio/1___2_0bdeaefc.webp",
     "title": "시엘 일러스트 #8 (0bdeaefc)",
     "category": "fox",
     "description": "시엘의 고유 일러스트 (0bdeaefc).",
@@ -249,7 +249,7 @@ export const GALLERY_IMAGES: CielImage[] = [
   },
   {
     "id": "9",
-    "path": "/assets/aistudio/1___2_56a196a1.png",
+    "path": "/assets/aistudio/1___2_56a196a1.webp",
     "title": "시엘 일러스트 #9 (56a196a1)",
     "category": "fox",
     "description": "시엘의 고유 일러스트 (56a196a1).",
@@ -257,7 +257,7 @@ export const GALLERY_IMAGES: CielImage[] = [
   },
   {
     "id": "10",
-    "path": "/assets/aistudio/1___2_624aa0da.png",
+    "path": "/assets/aistudio/1___2_624aa0da.webp",
     "title": "시엘 일러스트 #10 (624aa0da)",
     "category": "fox",
     "description": "시엘의 고유 일러스트 (624aa0da).",
@@ -265,7 +265,7 @@ export const GALLERY_IMAGES: CielImage[] = [
   },
   {
     "id": "11",
-    "path": "/assets/aistudio/1___2_702bf625.png",
+    "path": "/assets/aistudio/1___2_702bf625.webp",
     "title": "시엘 일러스트 #11 (702bf625)",
     "category": "fox",
     "description": "시엘의 고유 일러스트 (702bf625).",
@@ -273,7 +273,7 @@ export const GALLERY_IMAGES: CielImage[] = [
   },
   {
     "id": "12",
-    "path": "/assets/aistudio/1___2_98148bc0.png",
+    "path": "/assets/aistudio/1___2_98148bc0.webp",
     "title": "시엘 일러스트 #12 (98148bc0)",
     "category": "fox",
     "description": "시엘의 고유 일러스트 (98148bc0).",
@@ -281,7 +281,7 @@ export const GALLERY_IMAGES: CielImage[] = [
   },
   {
     "id": "13",
-    "path": "/assets/aistudio/1___2_bcb48e79.png",
+    "path": "/assets/aistudio/1___2_bcb48e79.webp",
     "title": "시엘 일러스트 #13 (bcb48e79)",
     "category": "fox",
     "description": "시엘의 고유 일러스트 (bcb48e79).",
@@ -289,7 +289,7 @@ export const GALLERY_IMAGES: CielImage[] = [
   },
   {
     "id": "14",
-    "path": "/assets/aistudio/1___2_c6697846.png",
+    "path": "/assets/aistudio/1___2_c6697846.webp",
     "title": "시엘 일러스트 #14 (c6697846)",
     "category": "fox",
     "description": "시엘의 고유 일러스트 (c6697846).",
@@ -297,7 +297,7 @@ export const GALLERY_IMAGES: CielImage[] = [
   },
   {
     "id": "15",
-    "path": "/assets/aistudio/1___2_c8e35303.png",
+    "path": "/assets/aistudio/1___2_c8e35303.webp",
     "title": "시엘 일러스트 #15 (c8e35303)",
     "category": "fox",
     "description": "시엘의 고유 일러스트 (c8e35303).",
@@ -305,7 +305,7 @@ export const GALLERY_IMAGES: CielImage[] = [
   },
   {
     "id": "16",
-    "path": "/assets/aistudio/1___3_417241fe.png",
+    "path": "/assets/aistudio/1___3_417241fe.webp",
     "title": "시엘 일러스트 #16 (417241fe)",
     "category": "fox",
     "description": "시엘의 고유 일러스트 (417241fe).",
@@ -313,7 +313,7 @@ export const GALLERY_IMAGES: CielImage[] = [
   },
   {
     "id": "17",
-    "path": "/assets/aistudio/1___3_44ade02c.png",
+    "path": "/assets/aistudio/1___3_44ade02c.webp",
     "title": "시엘 일러스트 #17 (44ade02c)",
     "category": "fox",
     "description": "시엘의 고유 일러스트 (44ade02c).",
@@ -321,7 +321,7 @@ export const GALLERY_IMAGES: CielImage[] = [
   },
   {
     "id": "18",
-    "path": "/assets/aistudio/1___3_4d26eb75.png",
+    "path": "/assets/aistudio/1___3_4d26eb75.webp",
     "title": "시엘 일러스트 #18 (4d26eb75)",
     "category": "fox",
     "description": "시엘의 고유 일러스트 (4d26eb75).",
@@ -329,7 +329,7 @@ export const GALLERY_IMAGES: CielImage[] = [
   },
   {
     "id": "19",
-    "path": "/assets/aistudio/1___3_6680d295.png",
+    "path": "/assets/aistudio/1___3_6680d295.webp",
     "title": "시엘 일러스트 #19 (6680d295)",
     "category": "fox",
     "description": "시엘의 고유 일러스트 (6680d295).",
@@ -337,7 +337,7 @@ export const GALLERY_IMAGES: CielImage[] = [
   },
   {
     "id": "20",
-    "path": "/assets/aistudio/1___3_a4be871a.png",
+    "path": "/assets/aistudio/1___3_a4be871a.webp",
     "title": "시엘 일러스트 #20 (a4be871a)",
     "category": "fox",
     "description": "시엘의 고유 일러스트 (a4be871a).",
@@ -345,7 +345,7 @@ export const GALLERY_IMAGES: CielImage[] = [
   },
   {
     "id": "21",
-    "path": "/assets/aistudio/1___3_d27cce5b.png",
+    "path": "/assets/aistudio/1___3_d27cce5b.webp",
     "title": "시엘 일러스트 #21 (d27cce5b)",
     "category": "fox",
     "description": "시엘의 고유 일러스트 (d27cce5b).",
@@ -353,7 +353,7 @@ export const GALLERY_IMAGES: CielImage[] = [
   },
   {
     "id": "22",
-    "path": "/assets/aistudio/1___3_ebe25fb9.png",
+    "path": "/assets/aistudio/1___3_ebe25fb9.webp",
     "title": "시엘 일러스트 #22 (ebe25fb9)",
     "category": "fox",
     "description": "시엘의 고유 일러스트 (ebe25fb9).",
@@ -361,7 +361,7 @@ export const GALLERY_IMAGES: CielImage[] = [
   },
   {
     "id": "23",
-    "path": "/assets/aistudio/1___3_ed670def.png",
+    "path": "/assets/aistudio/1___3_ed670def.webp",
     "title": "시엘 일러스트 #23 (ed670def)",
     "category": "fox",
     "description": "시엘의 고유 일러스트 (ed670def).",
@@ -369,7 +369,7 @@ export const GALLERY_IMAGES: CielImage[] = [
   },
   {
     "id": "24",
-    "path": "/assets/aistudio/1___4_2c8d15e6.png",
+    "path": "/assets/aistudio/1___4_2c8d15e6.webp",
     "title": "시엘 일러스트 #24 (2c8d15e6)",
     "category": "fox",
     "description": "시엘의 고유 일러스트 (2c8d15e6).",
@@ -377,7 +377,7 @@ export const GALLERY_IMAGES: CielImage[] = [
   },
   {
     "id": "25",
-    "path": "/assets/aistudio/1___4_34175047.png",
+    "path": "/assets/aistudio/1___4_34175047.webp",
     "title": "시엘 일러스트 #25 (1___4_34175047)",
     "category": "fox",
     "description": "시엘의 고유 일러스트 (1___4_34175047).",
@@ -385,7 +385,7 @@ export const GALLERY_IMAGES: CielImage[] = [
   },
   {
     "id": "26",
-    "path": "/assets/aistudio/1___4_3a5220f1.png",
+    "path": "/assets/aistudio/1___4_3a5220f1.webp",
     "title": "시엘 일러스트 #26 (3a5220f1)",
     "category": "fox",
     "description": "시엘의 고유 일러스트 (3a5220f1).",
@@ -393,7 +393,7 @@ export const GALLERY_IMAGES: CielImage[] = [
   },
   {
     "id": "27",
-    "path": "/assets/aistudio/1___4_9ecacd26.png",
+    "path": "/assets/aistudio/1___4_9ecacd26.webp",
     "title": "시엘 일러스트 #27 (9ecacd26)",
     "category": "fox",
     "description": "시엘의 고유 일러스트 (9ecacd26).",
@@ -401,7 +401,7 @@ export const GALLERY_IMAGES: CielImage[] = [
   },
   {
     "id": "28",
-    "path": "/assets/aistudio/1___4_bef64c38.png",
+    "path": "/assets/aistudio/1___4_bef64c38.webp",
     "title": "시엘 일러스트 #28 (bef64c38)",
     "category": "fox",
     "description": "시엘의 고유 일러스트 (bef64c38).",
@@ -409,7 +409,7 @@ export const GALLERY_IMAGES: CielImage[] = [
   },
   {
     "id": "29",
-    "path": "/assets/aistudio/1___4_c48b71c3.png",
+    "path": "/assets/aistudio/1___4_c48b71c3.webp",
     "title": "시엘 일러스트 #29 (c48b71c3)",
     "category": "fox",
     "description": "시엘의 고유 일러스트 (c48b71c3).",
@@ -417,7 +417,7 @@ export const GALLERY_IMAGES: CielImage[] = [
   },
   {
     "id": "30",
-    "path": "/assets/aistudio/1___4_eef8f9c9.png",
+    "path": "/assets/aistudio/1___4_eef8f9c9.webp",
     "title": "시엘 일러스트 #30 (eef8f9c9)",
     "category": "fox",
     "description": "시엘의 고유 일러스트 (eef8f9c9).",
@@ -425,7 +425,7 @@ export const GALLERY_IMAGES: CielImage[] = [
   },
   {
     "id": "31",
-    "path": "/assets/aistudio/1___4_f741a66d.png",
+    "path": "/assets/aistudio/1___4_f741a66d.webp",
     "title": "시엘 일러스트 #31 (f741a66d)",
     "category": "fox",
     "description": "시엘의 고유 일러스트 (f741a66d).",
@@ -441,7 +441,7 @@ export const GALLERY_IMAGES: CielImage[] = [
   },
   {
     "id": "33",
-    "path": "/assets/aistudio/1____2_98ec95d3.png",
+    "path": "/assets/aistudio/1____2_98ec95d3.webp",
     "title": "시엘 일러스트 #33 (98ec95d3)",
     "category": "fox",
     "description": "시엘의 고유 일러스트 (98ec95d3).",
@@ -449,7 +449,7 @@ export const GALLERY_IMAGES: CielImage[] = [
   },
   {
     "id": "34",
-    "path": "/assets/aistudio/1____3_e0d3814a.png",
+    "path": "/assets/aistudio/1____3_e0d3814a.webp",
     "title": "시엘 일러스트 #34 (e0d3814a)",
     "category": "fox",
     "description": "시엘의 고유 일러스트 (e0d3814a).",
@@ -457,7 +457,7 @@ export const GALLERY_IMAGES: CielImage[] = [
   },
   {
     "id": "35",
-    "path": "/assets/aistudio/1____4560675f.png",
+    "path": "/assets/aistudio/1____4560675f.webp",
     "title": "시엘 일러스트 #35 (4560675f)",
     "category": "fox",
     "description": "시엘의 고유 일러스트 (4560675f).",
@@ -465,7 +465,7 @@ export const GALLERY_IMAGES: CielImage[] = [
   },
   {
     "id": "36",
-    "path": "/assets/aistudio/1____4_51f3845f.png",
+    "path": "/assets/aistudio/1____4_51f3845f.webp",
     "title": "시엘 일러스트 #36 (51f3845f)",
     "category": "fox",
     "description": "시엘의 고유 일러스트 (51f3845f).",
@@ -473,7 +473,7 @@ export const GALLERY_IMAGES: CielImage[] = [
   },
   {
     "id": "37",
-    "path": "/assets/aistudio/1_____1_e737cede.png",
+    "path": "/assets/aistudio/1_____1_e737cede.webp",
     "title": "시엘 일러스트 #37 (e737cede)",
     "category": "fox",
     "description": "시엘의 고유 일러스트 (e737cede).",
@@ -489,7 +489,7 @@ export const GALLERY_IMAGES: CielImage[] = [
   },
   {
     "id": "39",
-    "path": "/assets/aistudio/1_____2_6d6d2468.png",
+    "path": "/assets/aistudio/1_____2_6d6d2468.webp",
     "title": "시엘 일러스트 #39 (6d6d2468)",
     "category": "fox",
     "description": "시엘의 고유 일러스트 (6d6d2468).",
@@ -497,7 +497,7 @@ export const GALLERY_IMAGES: CielImage[] = [
   },
   {
     "id": "40",
-    "path": "/assets/aistudio/1_____3_7053c0b7.png",
+    "path": "/assets/aistudio/1_____3_7053c0b7.webp",
     "title": "시엘 일러스트 #40 (7053c0b7)",
     "category": "fox",
     "description": "시엘의 고유 일러스트 (7053c0b7).",
@@ -505,7 +505,7 @@ export const GALLERY_IMAGES: CielImage[] = [
   },
   {
     "id": "41",
-    "path": "/assets/aistudio/1_____4_db122c9c.png",
+    "path": "/assets/aistudio/1_____4_db122c9c.webp",
     "title": "시엘 일러스트 #41 (db122c9c)",
     "category": "fox",
     "description": "시엘의 고유 일러스트 (db122c9c).",
@@ -521,7 +521,7 @@ export const GALLERY_IMAGES: CielImage[] = [
   },
   {
     "id": "43",
-    "path": "/assets/aistudio/1_____a2b6032b.png",
+    "path": "/assets/aistudio/1_____a2b6032b.webp",
     "title": "시엘 일러스트 #43 (a2b6032b)",
     "category": "fox",
     "description": "시엘의 고유 일러스트 (a2b6032b).",
@@ -545,7 +545,7 @@ export const GALLERY_IMAGES: CielImage[] = [
   },
   {
     "id": "46",
-    "path": "/assets/aistudio/2___1_124d3944.png",
+    "path": "/assets/aistudio/2___1_124d3944.webp",
     "title": "시엘 일러스트 #46 (124d3944)",
     "category": "fox",
     "description": "시엘의 고유 일러스트 (124d3944).",
@@ -561,7 +561,7 @@ export const GALLERY_IMAGES: CielImage[] = [
   },
   {
     "id": "48",
-    "path": "/assets/aistudio/2___1_34bf023c.png",
+    "path": "/assets/aistudio/2___1_34bf023c.webp",
     "title": "시엘 일러스트 #48 (34bf023c)",
     "category": "fox",
     "description": "시엘의 고유 일러스트 (34bf023c).",
@@ -577,7 +577,7 @@ export const GALLERY_IMAGES: CielImage[] = [
   },
   {
     "id": "50",
-    "path": "/assets/aistudio/2___1_696328b4.png",
+    "path": "/assets/aistudio/2___1_696328b4.webp",
     "title": "시엘 일러스트 #50 (696328b4)",
     "category": "fox",
     "description": "시엘의 고유 일러스트 (696328b4).",
@@ -585,7 +585,7 @@ export const GALLERY_IMAGES: CielImage[] = [
   },
   {
     "id": "51",
-    "path": "/assets/aistudio/2___1_6c311995.png",
+    "path": "/assets/aistudio/2___1_6c311995.webp",
     "title": "시엘 일러스트 #51 (6c311995)",
     "category": "fox",
     "description": "시엘의 고유 일러스트 (6c311995).",
@@ -625,7 +625,7 @@ export const GALLERY_IMAGES: CielImage[] = [
   },
   {
     "id": "56",
-    "path": "/assets/aistudio/2___2_0deec0fe.png",
+    "path": "/assets/aistudio/2___2_0deec0fe.webp",
     "title": "시엘 일러스트 #56 (0deec0fe)",
     "category": "fox",
     "description": "시엘의 고유 일러스트 (0deec0fe).",
@@ -673,7 +673,7 @@ export const GALLERY_IMAGES: CielImage[] = [
   },
   {
     "id": "62",
-    "path": "/assets/aistudio/2___2_955cdc2b.png",
+    "path": "/assets/aistudio/2___2_955cdc2b.webp",
     "title": "시엘 일러스트 #62 (955cdc2b)",
     "category": "fox",
     "description": "시엘의 고유 일러스트 (955cdc2b).",
@@ -681,7 +681,7 @@ export const GALLERY_IMAGES: CielImage[] = [
   },
   {
     "id": "63",
-    "path": "/assets/aistudio/2___2_96c2b31a.png",
+    "path": "/assets/aistudio/2___2_96c2b31a.webp",
     "title": "시엘 일러스트 #63 (96c2b31a)",
     "category": "fox",
     "description": "시엘의 고유 일러스트 (96c2b31a).",
@@ -697,7 +697,7 @@ export const GALLERY_IMAGES: CielImage[] = [
   },
   {
     "id": "65",
-    "path": "/assets/aistudio/2___2_a45815f6.png",
+    "path": "/assets/aistudio/2___2_a45815f6.webp",
     "title": "시엘 일러스트 #65 (a45815f6)",
     "category": "fox",
     "description": "시엘의 고유 일러스트 (a45815f6).",
@@ -713,7 +713,7 @@ export const GALLERY_IMAGES: CielImage[] = [
   },
   {
     "id": "67",
-    "path": "/assets/aistudio/2___3_368cb5dd.png",
+    "path": "/assets/aistudio/2___3_368cb5dd.webp",
     "title": "시엘 일러스트 #67 (368cb5dd)",
     "category": "fox",
     "description": "시엘의 고유 일러스트 (368cb5dd).",
@@ -721,7 +721,7 @@ export const GALLERY_IMAGES: CielImage[] = [
   },
   {
     "id": "68",
-    "path": "/assets/aistudio/2___3_3e378eb9.png",
+    "path": "/assets/aistudio/2___3_3e378eb9.webp",
     "title": "시엘 일러스트 #68 (3e378eb9)",
     "category": "fox",
     "description": "시엘의 고유 일러스트 (3e378eb9).",
@@ -729,7 +729,7 @@ export const GALLERY_IMAGES: CielImage[] = [
   },
   {
     "id": "69",
-    "path": "/assets/aistudio/2___3_4a893ef8.png",
+    "path": "/assets/aistudio/2___3_4a893ef8.webp",
     "title": "시엘 일러스트 #69 (4a893ef8)",
     "category": "fox",
     "description": "시엘의 고유 일러스트 (4a893ef8).",
@@ -769,7 +769,7 @@ export const GALLERY_IMAGES: CielImage[] = [
   },
   {
     "id": "74",
-    "path": "/assets/aistudio/2___3_cc4db545.png",
+    "path": "/assets/aistudio/2___3_cc4db545.webp",
     "title": "시엘 일러스트 #74 (cc4db545)",
     "category": "fox",
     "description": "시엘의 고유 일러스트 (cc4db545).",
@@ -809,7 +809,7 @@ export const GALLERY_IMAGES: CielImage[] = [
   },
   {
     "id": "79",
-    "path": "/assets/aistudio/2___4_27b325fd.png",
+    "path": "/assets/aistudio/2___4_27b325fd.webp",
     "title": "시엘 일러스트 #79 (27b325fd)",
     "category": "fox",
     "description": "시엘의 고유 일러스트 (27b325fd).",
@@ -817,7 +817,7 @@ export const GALLERY_IMAGES: CielImage[] = [
   },
   {
     "id": "80",
-    "path": "/assets/aistudio/2___4_65622656.png",
+    "path": "/assets/aistudio/2___4_65622656.webp",
     "title": "시엘 일러스트 #80 (2___4_65622656)",
     "category": "fox",
     "description": "시엘의 고유 일러스트 (2___4_65622656).",
@@ -833,7 +833,7 @@ export const GALLERY_IMAGES: CielImage[] = [
   },
   {
     "id": "82",
-    "path": "/assets/aistudio/2___4_7d160962.png",
+    "path": "/assets/aistudio/2___4_7d160962.webp",
     "title": "시엘 일러스트 #82 (7d160962)",
     "category": "fox",
     "description": "시엘의 고유 일러스트 (7d160962).",
@@ -849,7 +849,7 @@ export const GALLERY_IMAGES: CielImage[] = [
   },
   {
     "id": "84",
-    "path": "/assets/aistudio/2___4_8070a4f7.png",
+    "path": "/assets/aistudio/2___4_8070a4f7.webp",
     "title": "시엘 일러스트 #84 (8070a4f7)",
     "category": "fox",
     "description": "시엘의 고유 일러스트 (8070a4f7).",
@@ -865,7 +865,7 @@ export const GALLERY_IMAGES: CielImage[] = [
   },
   {
     "id": "86",
-    "path": "/assets/aistudio/2___5_0323b87c.png",
+    "path": "/assets/aistudio/2___5_0323b87c.webp",
     "title": "시엘 일러스트 #86 (0323b87c)",
     "category": "fox",
     "description": "시엘의 고유 일러스트 (0323b87c).",
@@ -881,7 +881,7 @@ export const GALLERY_IMAGES: CielImage[] = [
   },
   {
     "id": "88",
-    "path": "/assets/aistudio/2____1_8caa4db2.png",
+    "path": "/assets/aistudio/2____1_8caa4db2.webp",
     "title": "시엘 일러스트 #88 (8caa4db2)",
     "category": "fox",
     "description": "시엘의 고유 일러스트 (8caa4db2).",
@@ -897,7 +897,7 @@ export const GALLERY_IMAGES: CielImage[] = [
   },
   {
     "id": "90",
-    "path": "/assets/aistudio/2____2_794cd9e9.png",
+    "path": "/assets/aistudio/2____2_794cd9e9.webp",
     "title": "시엘 일러스트 #90 (794cd9e9)",
     "category": "fox",
     "description": "시엘의 고유 일러스트 (794cd9e9).",
@@ -929,7 +929,7 @@ export const GALLERY_IMAGES: CielImage[] = [
   },
   {
     "id": "94",
-    "path": "/assets/aistudio/2____4_13f27927.png",
+    "path": "/assets/aistudio/2____4_13f27927.webp",
     "title": "시엘 일러스트 #94 (13f27927)",
     "category": "fox",
     "description": "시엘의 고유 일러스트 (13f27927).",
@@ -977,7 +977,7 @@ export const GALLERY_IMAGES: CielImage[] = [
   },
   {
     "id": "100",
-    "path": "/assets/aistudio/2_____1_d6136be9.png",
+    "path": "/assets/aistudio/2_____1_d6136be9.webp",
     "title": "시엘 일러스트 #100 (d6136be9)",
     "category": "fox",
     "description": "시엘의 고유 일러스트 (d6136be9).",
