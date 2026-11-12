@@ -1,0 +1,6 @@
+{
+  "name": "청성 기사단장 시엘 | 캐릭터 스토리 & 프롬프트 가이드",
+  "description": "제국 최강의 9클래스 마법사이자 청성 기사단장 시엘, 소꿉친구 앞에서만 서툰 여우가 되는 그녀의 모든 서사와 비밀을 경험해보세요.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
